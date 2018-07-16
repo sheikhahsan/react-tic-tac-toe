@@ -1,4 +1,9 @@
+# React-Tic-Tac-Toe
+
+Tic Tac Toe game build in reactjs following Tutorial (https://reactjs.org/tutorial/tutorial.html) with some changes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 
 ## Folder Structure
 
